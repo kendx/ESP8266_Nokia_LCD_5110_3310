@@ -1,6 +1,7 @@
 /*
  * Connecting ESP8266 (ESP-01) and Nokia 5110 LCD
  * www.KendrickTabi.com
+ * http://www.kendricktabi.com/2015/08/esp8266-and-nokia-5110-lcd.html
  */
 
 #include <ESP8266WiFi.h>
